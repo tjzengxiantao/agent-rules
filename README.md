@@ -10,3 +10,4 @@ agent rules
 | alibaba-java-development-rules.md | 阿里巴巴 Java 开发手册规约 | 编码规范 |
 | bank-data-security-rules.md | 银行业数据安全规范 | 规范AI开发时各种敏感数据 |
 | project-operation-sagety-rules.md | 项目操作安全规则 | 规范AI开发时各种风险操作 |
+| ai-tool-constraint-rules.md | AI工具约束规则 | 明确告知AI什么能做什么不能做 |
